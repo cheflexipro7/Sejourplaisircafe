@@ -1,2 +1,2 @@
-# Sejourplaisircafe
+# Sejour Plaisir Cafe
 Bistro 
